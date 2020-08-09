@@ -1,0 +1,4 @@
+
+\b[A-Z]\w+ly\b, staring with a capital letter ending with 'ly'
+Stephen\s(?!Proto|Cardinal)[A-Z]\w+, followed by "Stephen"
+Simon\s[A-Z]\w+, followed by "Simon"

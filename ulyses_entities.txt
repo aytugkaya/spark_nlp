@@ -1,0 +1,7 @@
+wake
+sleep
+turn
+take
+ulyses
+bake
+shave
