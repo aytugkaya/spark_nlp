@@ -1,2 +1,5 @@
 # spark_nlp
-Sample notebooks
+
+Sample notebooks for Spark NLP
+
+<\b> Sample
